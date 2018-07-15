@@ -1,0 +1,5 @@
+.pioenvs
+.piolibdeps
+.vscode
+src/secret.h
+.DS_Store
